@@ -15,4 +15,4 @@ from unknown error: CRX verification failed: 3
    at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)
    at PageCheck.Program.Main(String[] args) in C:\Users\bugma\Source\Repos\PageCheck\Program.cs:line 28
 ```
-However CRX file does exist at "C:\\Program Files (x86)\\HttpWatch\\HttpWatchForChrome.crx"
+CRX file does exist at "C:\\Program Files (x86)\\HttpWatch\\HttpWatchForChrome.crx"
